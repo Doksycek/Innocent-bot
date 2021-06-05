@@ -1,5 +1,5 @@
-token = "" # refer to main branch
-prefix = "~" 
+token = "690487194359431219" # refer to main branch
+prefix = "." 
 
 import discord
 from discord.ext import commands
